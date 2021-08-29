@@ -1,6 +1,6 @@
 # PvZTool
-PvZTool 的源代码，编写于 2015~2016
-the source code of PvZTool, written in 2015~2016 or earlier
+PvZTool 的源代码，编写于 2015-2016
+the source code of PvZTool, written in 2015-2016 or earlier
 
 ## 第三方库依赖 dependency library
 - zlib 用于zlib压缩
